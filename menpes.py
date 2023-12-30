@@ -1,4 +1,4 @@
-// Fitur By Zivsan And Haori Kasih Credits Dong Stah
+// Fitur By Zaa bot
 const { MessageType } = require('@adiwajshing/baileys')
 let fetch = require('node-fetch')
 let handler = async(m, { conn, text }) => {
